@@ -18,12 +18,22 @@ from retry import retry
 import requests
 
 RAW_URL = [
-    "github.githubassets.com",
+      "github.githubassets.com",
     "camo.githubusercontent.com",
     "github.map.fastly.net",
     "github.global.ssl.fastly.net",
     "github.com",
     "api.github.com",
+    "assets-cdn.github.com",
+    "documentcloud.github.com",
+    "gist.github.com",
+    "help.github.com",
+    "nodeload.github.com",
+    "raw.github.com",
+    "training.github.com",
+    "status.github.com",
+    "ithubusercontent.com",
+    "codeload.github.com",
     "raw.githubusercontent.com",
     "user-images.githubusercontent.com",
     "favicons.githubusercontent.com",
